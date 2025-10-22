@@ -23,7 +23,7 @@ Loss function is CrossEntropyLoss.
 
 Optimizer is Adam.
 
-Refer to (tweets-sentiment-classifier.ipynb) to see the code and scroll to the very end to test a prediction for your own input text. 
+Refer to [tweets-sentiment-classifier.ipynb](tweets-sentiment-classifier.ipynb) to see the code and scroll to the very end to test a prediction for your own input text. 
 
 # Results:
 Max accuracy: 73.19%
