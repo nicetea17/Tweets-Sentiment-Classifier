@@ -16,9 +16,14 @@ Columns of focus are the following:
 
 # Model:
 MLP - Multilayer Perceptron with 5 layers and 10 epochs.
+
 Used ReLU as activation function and added Dropout with 10% chance.
+
 Loss function is CrossEntropyLoss.
+
 Optimizer is Adam.
+
+Refer to [tweets-sentiment-classifier.ipynb](tweets-sentiment-classifier.ipynb) to see the code and scroll to the very end to test a prediction for your own input text. 
 
 # Results:
 Max accuracy: 73.19%
